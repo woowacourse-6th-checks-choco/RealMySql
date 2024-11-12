@@ -1,4 +1,4 @@
-#💡첵스초코 - Real Mysql
+# 💡첵스초코 - Real Mysql
 
 ## 🚀 진행 방식
 
